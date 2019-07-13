@@ -1,0 +1,36 @@
+C:\Users\Xavier Miranda\Desktop\BANKING_ADS\endopoint_banking_grupo04\Banking.Domain\bin\Debug\netcoreapp2.2\Banking.Domain.deps.json
+C:\Users\Xavier Miranda\Desktop\BANKING_ADS\endopoint_banking_grupo04\Banking.Domain\bin\Debug\netcoreapp2.2\Banking.Domain.dll
+C:\Users\Xavier Miranda\Desktop\BANKING_ADS\endopoint_banking_grupo04\Banking.Domain\bin\Debug\netcoreapp2.2\Banking.Domain.pdb
+C:\Users\Xavier Miranda\Desktop\BANKING_ADS\endopoint_banking_grupo04\Banking.Domain\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\Xavier Miranda\Desktop\BANKING_ADS\endopoint_banking_grupo04\Banking.Domain\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\Xavier Miranda\Desktop\BANKING_ADS\endopoint_banking_grupo04\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.csprojAssemblyReference.cache
+C:\Users\Xavier Miranda\Desktop\BANKING_ADS\endopoint_banking_grupo04\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Xavier Miranda\Desktop\BANKING_ADS\endopoint_banking_grupo04\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\Xavier Miranda\Desktop\BANKING_ADS\endopoint_banking_grupo04\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.AssemblyInfo.cs
+C:\Users\Xavier Miranda\Desktop\BANKING_ADS\endopoint_banking_grupo04\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.csproj.CopyComplete
+C:\Users\Xavier Miranda\Desktop\BANKING_ADS\endopoint_banking_grupo04\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.dll
+C:\Users\Xavier Miranda\Desktop\BANKING_ADS\endopoint_banking_grupo04\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.pdb
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04\Banking.Domain\bin\Debug\netcoreapp2.2\Banking.Domain.deps.json
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04\Banking.Domain\bin\Debug\netcoreapp2.2\Banking.Domain.dll
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04\Banking.Domain\bin\Debug\netcoreapp2.2\Banking.Domain.pdb
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04\Banking.Domain\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04\Banking.Domain\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.csprojAssemblyReference.cache
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.AssemblyInfo.cs
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.csproj.CopyComplete
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.dll
+C:\Users\MIA\Documents\GitHub\endopoint_banking_grupo04\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.pdb
+C:\Users\Xavier Miranda\Desktop\endopoint_banking_grupo04 - copia\Banking.Domain\bin\Debug\netcoreapp2.2\Banking.Domain.deps.json
+C:\Users\Xavier Miranda\Desktop\endopoint_banking_grupo04 - copia\Banking.Domain\bin\Debug\netcoreapp2.2\Banking.Domain.dll
+C:\Users\Xavier Miranda\Desktop\endopoint_banking_grupo04 - copia\Banking.Domain\bin\Debug\netcoreapp2.2\Banking.Domain.pdb
+C:\Users\Xavier Miranda\Desktop\endopoint_banking_grupo04 - copia\Banking.Domain\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\Xavier Miranda\Desktop\endopoint_banking_grupo04 - copia\Banking.Domain\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\Xavier Miranda\Desktop\endopoint_banking_grupo04 - copia\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.csprojAssemblyReference.cache
+C:\Users\Xavier Miranda\Desktop\endopoint_banking_grupo04 - copia\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Xavier Miranda\Desktop\endopoint_banking_grupo04 - copia\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\Xavier Miranda\Desktop\endopoint_banking_grupo04 - copia\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.AssemblyInfo.cs
+C:\Users\Xavier Miranda\Desktop\endopoint_banking_grupo04 - copia\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.csproj.CopyComplete
+C:\Users\Xavier Miranda\Desktop\endopoint_banking_grupo04 - copia\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.dll
+C:\Users\Xavier Miranda\Desktop\endopoint_banking_grupo04 - copia\Banking.Domain\obj\Debug\netcoreapp2.2\Banking.Domain.pdb

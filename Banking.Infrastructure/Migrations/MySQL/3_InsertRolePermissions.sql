@@ -1,0 +1,12 @@
+﻿INSERT INTO role_permission(role_permission_id, role_id, permission_id, active, created_at_utc, updated_at_utc)
+VALUES
+(1, 1, 1, 1, UTC_TIMESTAMP(),UTC_TIMESTAMP()),
+(2, 1, 2, 1, UTC_TIMESTAMP(),UTC_TIMESTAMP()),
+(3, 1, 3, 1, UTC_TIMESTAMP(),UTC_TIMESTAMP()),
+(4, 1, 4, 1, UTC_TIMESTAMP(),UTC_TIMESTAMP()),
+(5, 1, 5, 1, UTC_TIMESTAMP(),UTC_TIMESTAMP()),
+(6, 1, 6, 1, UTC_TIMESTAMP(),UTC_TIMESTAMP()),
+(7, 2, 2, 1, UTC_TIMESTAMP(),UTC_TIMESTAMP()),
+(8, 2, 4, 1, UTC_TIMESTAMP(),UTC_TIMESTAMP()),
+(9, 2, 5, 1, UTC_TIMESTAMP(),UTC_TIMESTAMP()),
+(10, 2, 6, 1, UTC_TIMESTAMP(),UTC_TIMESTAMP());
